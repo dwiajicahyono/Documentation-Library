@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
